@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World!<br><br>I'm Ali, a 20-year-old Computer Science student in my 2nd year at Pristini School of AI. <br>I'm passionate about artificial intelligence, machine learning, and deep learning—technologies <br>that are shaping the future. Always eager to learn, build, and contribute to innovative projects.
+👋 Hello World!<br><br>I'm Ali, a Computer Science student in my 2nd year at Pristini School of AI. <br>I'm passionate about artificial intelligence, machine learning, and deep learning—technologies <br>that are shaping the future. Always eager to learn, build, and contribute to innovative projects.
 
 
 ## 🌐 Socials:
